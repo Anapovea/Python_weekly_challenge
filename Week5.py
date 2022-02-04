@@ -84,4 +84,3 @@ aspect_ratio(*calculation_GCF(width,heigth))
 # calculation_GCF(width, heigth)  
 # aspect_ratio(*calculation_GCF(width,heigth))      
 
-# https://stackoverflow.com/questions/17153401/how-calculate-aspect-ratio-from-dimensions-of-image
