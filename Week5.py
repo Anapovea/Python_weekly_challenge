@@ -16,6 +16,8 @@
 
 
 
+
+
 #       ********************** ALGORITHM **********************
 #       To calculate an aspect ratio as W:H, divide your width and
 #       your height by their greatest common factor (GCF),
