@@ -22,7 +22,6 @@
 #       and write it as W:H, where W is units of width divided by
 #       the GCF and H is units of height divided by the GCF.
 
-
 import PIL
 import urllib.request
 
